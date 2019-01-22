@@ -1,4 +1,4 @@
-# Vagrant box Centos 7777777 with root ssh access 
+# Vagrant box Centos 7 with root ssh access 
 This Vagrant file will deploy a centos 7 operating system, assign a private ip and also enable ssh access.<br/>
 examples integrating ansible with vagrant is also shown in the Vagrant file<br/>
 <br/>
@@ -26,3 +26,4 @@ vagrant up
 ssh appserver
 </pre>
 <br/>
+N.B: would enable ssh access on Ubuntu based boxes as well
